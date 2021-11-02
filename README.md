@@ -1,2 +1,2 @@
 # Name-It
-A cool project which provides the name of your next project
+A cool project where you can find/search the names of your next project 
