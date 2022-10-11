@@ -2,10 +2,8 @@
 
 This is a react based (side) project intended to generate and suggest startup / venture names from the keyworkds given by the user. This project is entirely built from scratch. You can see the live demo [Here](https://amulya-coder.github.io/Name-It/)
 
-## 📌Screenshots
-![image](https://user-images.githubusercontent.com/66437295/139915201-26d82e80-5ca4-4f4e-bd96-80c7d8140998.png)
-
-![image](https://user-images.githubusercontent.com/66437295/139915574-9c7b865b-4afb-4b4a-870e-717030410be2.png)
+## 📌Live Demo
+https://user-images.githubusercontent.com/66437295/195146169-75837c44-0504-465c-ae64-6cfc84c61a0e.mp4
 
 ## 📌Pre-requisites
 
