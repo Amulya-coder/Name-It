@@ -5,6 +5,13 @@ This is a react based (side) project intended to generate and suggest startup / 
 ## 📌Live Demo
 https://user-images.githubusercontent.com/66437295/195146169-75837c44-0504-465c-ae64-6cfc84c61a0e.mp4
 
+## 📌Wire Framed Diagram:
+<img src = "./doc_images/WireFrame1.png" width="500px"/>
+<img src = "./doc_images/WireFrame2.png" width="500px"/>
+
+## 📌Structural Diagram
+<img src="./doc_images/Structural.png" width="500px"/>
+
 ## 📌Pre-requisites
 
 1. Basic Computer configuration
