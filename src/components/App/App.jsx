@@ -8,7 +8,7 @@ import Footer from '../Footer/Footer';
 const name = require('@rstacruz/startup-name-generator');
 
 const App = () => {
-    const [headerText, setheaderText] = useState('Name It!');
+    const [headerText] = useState('Name It!');
     const [headerExpanded, setheaderExpanded] = useState(true);
     const [suggestedNames, setsuggestedNames] = useState([]);
 
@@ -19,12 +19,12 @@ const App = () => {
     };
 
     return (
-        <div>
+        <div className='container'>
             <Header headerExpanded={headerExpanded} headTitle={headerText} />
             <SearchBox onInputChange={handleInputChange} />
             <ResultsContainer suggestedNames={suggestedNames} />
             <Footer/>
-        </div>
+            </div>
     );
 };
 export default App;

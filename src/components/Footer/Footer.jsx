@@ -8,11 +8,11 @@ const Footer = () => {
             <p>
                 {' '}
                 Designed & Developed By{' '}
-                <a
+                <a style={{color:'blue'}}
                     target="_blank"
                     href="https://www.linkedin.com/in/amulyadixit/"
                 >
-                    Amulya Dixit.
+                  Amulya Dixit.
                 </a>{' '}
                 Thanks To{' '}
                 <a
