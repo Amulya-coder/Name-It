@@ -6,11 +6,12 @@ This is a react based project intended to generate and suggest startup / venture
 https://user-images.githubusercontent.com/66437295/195146169-75837c44-0504-465c-ae64-6cfc84c61a0e.mp4
 
 ## 📌Wire Framed Diagram:
-<img src = "./doc_images/WireFrame1.png" width="500px"/>
-<img src = "./doc_images/WireFrame2.png" width="500px"/>
+![WireFrame1](https://user-images.githubusercontent.com/66437295/205924283-d4ffa144-04b0-4211-b671-7dad7fa2c1c5.png)
+![WireFrame2](https://user-images.githubusercontent.com/66437295/205924302-ed167edb-d034-4d0c-8a57-c1b837448bf8.png)
 
 ## 📌Structural Diagram
-<img src="./doc_images/Structural.png" width="500px"/>
+![Structural](https://user-images.githubusercontent.com/66437295/205923847-452835de-ece2-402b-8e9a-53738243ca02.png)
+
 
 ## 📌Pre-requisites
 
