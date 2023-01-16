@@ -9,25 +9,11 @@ const Footer = () => {
                 {' '}
                 Designed & Developed By{' '}
                 <a style={{color:'blue'}}
-                    target="_blank"
+                    target="_blank" rel='noreferrer'
                     href="https://www.linkedin.com/in/amulyadixit/"
                 >
                   Amulya Dixit.
-                </a>{' '}
-                Thanks To{' '}
-                <a
-                    target="_blank"
-                    href="https://www.linkedin.com/in/madhavbahl/"
-                >
-                    Madhav Bahl
-                </a>{' '}
-                &{' '}
-                <a
-                    target="_blank"
-                    href="https://www.youtube.com/user/projectevening"
-                >
-                    The Lean Programmer
-                </a>
+                  </a>
             </p>
         </div>
     );
