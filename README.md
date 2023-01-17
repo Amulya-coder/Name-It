@@ -38,27 +38,24 @@ Fork the project from https://github.com/Amulya-coder/Name-It
 ```git
 git clone https://github.com/<your-user-name>/NameIt.git
 ```
-3. Open the project in your desired text editor
-
-4. run the following command int terminal to see the live output
+3. Open the project in your desired text editor and run the command
+```
+npm install
+```
+4. Run the following command in the terminal to see the live output
 ```node
 npm start
 ```
 5. Now go to the components folder and choose the component you want to add feature to.
 
-6. after specified changes document the changes in changes.md
-
-7. run the following command to generate the build folder
+6. run the following command to generate the build folder
 ```node
 npm run build
 ```
-8. Now deploy the application to your copy
+7. Now deploy the application to your copy
 ```node
 npm deploy
 ```
-9. Now create a pull request to the parent repository
-
-10. Wait for acceptance ! Best of luck
 
 ## 📌Contributors & Maintaiers
 [Amulya Dixit](https://github.com/Amulya-coder)
