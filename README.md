@@ -29,12 +29,11 @@ For new contibution or feature :
 3. Get acceptance from the code maintainers
 4. Enjoy adding the feature
 
-## 📌Steps to contibute :
+## 📌Setup :
 
-1. Fork the project:
-Fork the project from https://github.com/Amulya-coder/Name-It
+1. Fork the project by clicking on the above icon.
 
-2. Clonning the project :
+2. Clonning the project to your local machine:
 ```git
 git clone https://github.com/<your-user-name>/NameIt.git
 ```
